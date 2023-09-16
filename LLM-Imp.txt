@@ -1,0 +1,32 @@
+ChatGPT For Your DATA | Chat with Multiple Documents Using LangChain
+https://www.youtube.com/watch?v=TeDgIDqQmzs
+
+Langchain + ChatGPT + Pinecone: A Question Answering Streamlit App
+https://www.youtube.com/watch?v=iQnMADoFaWQ
+it has code to block embeddings code if the file is already processed and app for chatbot
+
+LangChain: Chat with Books and PDF Files with Llama 2 and Pinecone (Free LLMs & Embeddings)
+https://www.youtube.com/watch?v=ckb4DnHLBrU
+It has the procedure to download the model locally and run queries.
+
+https://www.youtube.com/@SamuelChan/videos
+
+Full-Stack ML Apps (Javascript, React, Streamlit) with Gradio API
+https://www.youtube.com/watch?v=mbn6yLcoyzo
+Streamlit API Post request
+
+OpenAI Api Crash Course For Beginners | Financial Data Extraction Tool Using OpenAI API
+https://www.youtube.com/watch?v=xP_ZON_P4Ks
+
+How to deploy LLMs (Large Language Models) as APIs using Hugging Face + AWS
+https://www.youtube.com/watch?v=a2A_CxrH3Ts
+
+Deploy LLMs (Large Language Models) on AWS SageMaker using DLC
+https://www.youtube.com/watch?v=A9Pu4xg-Nas
+
+Your Own Llama 2 API on AWS SageMaker in 10 min! Complete AWS, Lambda, API Gateway Tutorial
+https://www.youtube.com/watch?v=3y_TcDNC0HE
+
+USING 🦜 LANGCHAIN AIs SequentialChain 🔗 : BUILD - @OpenAI @streamlit Web APP | Python
+https://www.youtube.com/watch?v=VVSiI-FFrV0
+shows how to use sequencial chain prompts
