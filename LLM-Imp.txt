@@ -30,3 +30,18 @@ https://www.youtube.com/watch?v=3y_TcDNC0HE
 USING 🦜 LANGCHAIN AIs SequentialChain 🔗 : BUILD - @OpenAI @streamlit Web APP | Python
 https://www.youtube.com/watch?v=VVSiI-FFrV0
 shows how to use sequencial chain prompts
+
+Langchain: PDF Chat App (GUI) | ChatGPT for Your PDF FILES | Step-by-Step Tutorial
+https://www.youtube.com/watch?v=RIWbalZ7sTo&t=1428s
+it has FIASS and callback to cost of query
+
+Chat with Multiple Documents with Llama 2 and ChromaDB (Free LLMs and Embeddings)
+https://www.youtube.com/watch?v=nac0nVBO24w
+
+Chat with your PDF Chatbot: All OPEN SOURCE (Runs on CPU)
+https://www.youtube.com/watch?v=N7wk1E1I0Qo
+this has logic to upload file, save it into a directory and retrieve from directory and display on page.  It gas logic to only process once for creating embeddingd
+
+Chatbot Answering from Your Own Knowledge Base: Langchain, ChatGPT, Pinecone, and Streamlit: | Code
+https://www.youtube.com/watch?v=nAKhxQ3hcMA
+it has logic for different prompts with pine code, i has logic to consume end points also.
