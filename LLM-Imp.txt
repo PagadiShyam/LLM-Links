@@ -40,8 +40,30 @@ https://www.youtube.com/watch?v=nac0nVBO24w
 
 Chat with your PDF Chatbot: All OPEN SOURCE (Runs on CPU)
 https://www.youtube.com/watch?v=N7wk1E1I0Qo
-this has logic to upload file, save it into a directory and retrieve from directory and display on page.  It gas logic to only process once for creating embeddingd
+this has logic to upload file, save it into a directory and retrieve from directory and display on page.  
+It has logic to only process once for creating embeddingd
 
 Chatbot Answering from Your Own Knowledge Base: Langchain, ChatGPT, Pinecone, and Streamlit: | Code
 https://www.youtube.com/watch?v=nAKhxQ3hcMA
 it has logic for different prompts with pine code, i has logic to consume end points also.
+
+OpenAI Email
+https://github.com/robocorp/example-llm-emails/blob/master/tasks.py
+
+Chat with an image | LangChain custom tools tutorial | Python Streamlit | Computer
+https://www.youtube.com/watch?v=71EOM5__vkI
+
+C:\Program Files\Tesseract-OCR\tesseract.exe'
+
+How To Install & Use the Unstructured File Loader and Upload the Content To A Pinecone Database.
+https://www.youtube.com/watch?v=8OuOsuhy3Y8
+
+how to install multiple versions of python using virtualenv
+https://www.youtube.com/watch?v=sk-ikK90AyQ
+
+Large Language Models: How to Chat With Any PDFs And Image Files - Source Code Available!
+https://www.youtube.com/watch?v=AHbM2wCyd8s
+
+Launch Your Own Langchain PDF Chat | Streamlit Tutorial | No code, Easy | Python w Faiss VectorDB
+https://www.youtube.com/watch?v=UQBeMhhQjp4
+It has functionality to generate sample questions, good UI, option to use OpenAI or HuggingFace
