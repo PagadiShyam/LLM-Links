@@ -67,3 +67,11 @@ https://www.youtube.com/watch?v=AHbM2wCyd8s
 Launch Your Own Langchain PDF Chat | Streamlit Tutorial | No code, Easy | Python w Faiss VectorDB
 https://www.youtube.com/watch?v=UQBeMhhQjp4
 It has functionality to generate sample questions, good UI, option to use OpenAI or HuggingFace
+great resource
+
+
+ALL Good Code -- Includes chat with CSV using vector store
+https://github.com/MuhammadMoinFaisal/LargeLanguageModelsProjects/blob/main/Chat_with_CSV_File_Lllama2/script.py
+
+LangChain - Streamlit full application custom code:
+https://www.youtube.com/watch?v=pKQrbyjIDI8
